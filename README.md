@@ -10,5 +10,5 @@ On my repositories I usually posting my school and personal projects, if you fin
 
 ## My personal stats:
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=a1mond&show_icons=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1mond&layout=compact&hide=CMake, Makefile,C&exclude_repo=password-manager">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1mond&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1mond&layout=compact&hide=CMake, Makefile,C&exclude_repo=password-manager">
