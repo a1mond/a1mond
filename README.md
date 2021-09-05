@@ -12,8 +12,3 @@ On my repositories I usually post my school and personal projects, if you find s
 Email: vladyslavkotyk1@gmail.com
 
 Website: *WIP*
-
-## And my personal stats:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1mond&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1mond&layout=compact&hide=CMake, Makefile,C&exclude_repo=password-manager">
