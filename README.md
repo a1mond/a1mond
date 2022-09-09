@@ -9,6 +9,6 @@ Currently I study in Polish-Japanese Academy of Information Technologies and pur
 On my repositories I usually post my school and personal projects, if you find some helpful materials on studyings, don't forget to star repo or just message me :)
 
 ## Contact information:
-Email: vladyslavkotyk1@gmail.com
+Email: work@vkotyk.com, vladyslavkotyk1@gmail.com
 
 Website: *WIP*
